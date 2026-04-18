@@ -80,11 +80,14 @@
 > Building systems where **data → insights → intelligent APIs**
 
 ---
-
 ## 🌐 Connect with Me
 
 <p>
-<a href="your-linkedin">
+<a href="www.linkedin.com/in/raghav-mittal-63631831a">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:raghavmittalbsr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
